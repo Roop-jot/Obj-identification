@@ -1,0 +1,10 @@
+body
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(135,135,167,1) 10%, rgba(42,188,228,1) 50%, rgba(0,212,255,1) 100%);
+}
+.abox
+{
+    border-radius: 75;
+    margin: 20px;
+}
